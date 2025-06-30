@@ -1,0 +1,28 @@
+{
+  "name": "maliciousui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.2.0",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.5.1",
+    "eslint": "^9.30.0",
+    "eslint-plugin-vue": "^10.2.0",
+    "pinia": "^3.0.3",
+    "pitchfinder": "^2.3.2",
+    "spin-wheel": "^5.0.2",
+    "vue": "^3.4.0",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.5.0",
+    "vite-plugin-vue-devtools": "^7.7.7"
+  }
+}
